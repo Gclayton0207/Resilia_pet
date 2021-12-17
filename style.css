@@ -24,7 +24,6 @@ a{
     display: inline-block;
     text-decoration: none;
     color:black;
-    
     }
 
  .titulo{
@@ -45,7 +44,6 @@ nav{
     background-color: grey;
     font-size: 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    
 }
 .imagem {
 	overflow: hidden;
@@ -113,14 +111,14 @@ h1 {
 	font-size: 1.5em;
 }
 .foto1_sobre{
-    width: 550px;
+    width: 450px;
     height: 500px;
     padding-left: 1.5%;
     margin-top: -700px;
     position: absolute;
 }
 .foto2_sobre{
-    width: 550px;
+    width: 450px;
     height: 500px;
     padding-right: 1.5%;
     margin-top: -700px;
@@ -146,10 +144,8 @@ h1 {
     display: block;
     width: 100%;
 }
-.radiobox label{
-    width: auto;
-    display: inline-block;
-}
+
+
 input[type=text],
 input[type=email],
 textarea{
